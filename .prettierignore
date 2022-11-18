@@ -1,0 +1,8 @@
+dist
+node_modules
+src-tauri
+**/*.d.ts
+.vscode
+.husky
+.idea
+grpc_proto
